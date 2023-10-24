@@ -1,0 +1,9 @@
+https://nicehuster.github.io/2018/09/19/opencv_dnn/ （openCV DNN 简要介绍）
+https://cloud.tencent.com/developer/article/1453444 （参考ppt）
+https://zhuanlan.zhihu.com/p/66705645 （深度学习的训练和推理）
+https://blog.csdn.net/leo0308/article/details/117398166 （float16）
+https://scicomp.stackexchange.com/questions/35187/is-half-precision-supported-by-modern-architecture （支持float16的cpu）
+https://en.cppreference.com/w/cpp/header/stdfloat （c++23标准即将支持float16）
+https://www.ecscoupon.com/1488.html （fp16 和 fp32 的比较讲解）
+https://mxnet.apache.org/versions/1.3.1/faq/float16.html （float16的优势）
+https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html （精度问题）
