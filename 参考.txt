@@ -7,3 +7,7 @@ https://en.cppreference.com/w/cpp/header/stdfloat （c++23标准即将支持floa
 https://www.ecscoupon.com/1488.html （fp16 和 fp32 的比较讲解）
 https://mxnet.apache.org/versions/1.3.1/faq/float16.html （float16的优势）
 https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html （精度问题）
+https://blog.csdn.net/Lucinda6/article/details/115800147 （梯度截断）
+https://zhuanlan.zhihu.com/p/28023308 （L2范数）
+https://finance.sina.cn/tech/2021-02-24/detail-ikftssap8455930.d.html?fromtech=1 （激活函数）
+https://hub.baai.ac.cn/view/16045 （混合精度训练）
